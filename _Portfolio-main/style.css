@@ -432,7 +432,7 @@
         }
 
         .project-card::before {
-        content: "NOT AVAILABLE";
+        content: "https://rag-document-ui.onrender.com/";
         position: absolute;
         top: 0;
         left: 0;
